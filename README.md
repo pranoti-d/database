@@ -1,2 +1,2 @@
 # database
-database version
+test the database version
